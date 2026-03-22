@@ -1,36 +1,85 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 📊 Dev Analytics Dashboard
 
-## Getting Started
+## 🧾 Overview
 
-First, run the development server:
+Dev Analytics Dashboard is a data-driven application that consumes the GitHub API to visualize developer activity and repository insights.
+
+The goal of this project is to demonstrate advanced frontend skills such as API integration, data visualization, and UI architecture.
+
+---
+
+## 🚀 Live Demo
+
+👉 https://your-demo-link.com *(update this)*
+
+---
+
+## ⚙️ Tech Stack
+
+* Next.js
+* React
+* TypeScript
+* Tailwind CSS
+* Recharts / Chart.js
+* GitHub REST API
+
+---
+
+## ✨ Features
+
+* 🔎 Search GitHub users
+* 👤 User profile visualization
+* 📁 Repository listing
+* 📊 Data visualization (languages, stars, activity)
+* ⚡ Loading & error states
+* 📱 Responsive UI
+
+---
+
+## 🧠 Key Highlights
+
+* Custom hooks for API consumption
+* Clean separation of logic and UI
+* Efficient data handling
+* Reusable components
+* Scalable architecture
+
+---
+
+## 📸 Screenshots
+
+*(Add dashboard images or GIFs)*
+
+---
+
+## 🛠️ Installation
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 📦 Build
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+npm run build
+npm start
+```
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 🧠 What I Learned
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+* Working with external APIs at scale
+* Data transformation and visualization
+* Building dashboard-style UIs
+* Optimizing performance in React apps
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 📫 Contact
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+* GitHub: https://github.com/ErikManuel
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
